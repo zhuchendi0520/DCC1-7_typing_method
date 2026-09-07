@@ -14,9 +14,9 @@ The typing scheme supports:
 | subsp. *abscessus* (ABS) | GZ002, NZ_CP034181.1 | DCC1, DCC2, DCC4, DCC5 |
 | subsp. *massiliense* (MAS) | CCUG 48898, NZ_AP014547.1 | DCC3, DCC6, DCC7 |
 
-Subsp. *bolletii* is not included because DCC1-DCC7 do not belong to this subspecies. The package does not assign emerging DCCs.
+Subsp. *bolletii* is not included because DCC1-DCC7 do not belong to this subspecies. 
 
-本工具仅针对 DCC1-DCC7，不进行 eDCC 分型，也不包含 *bolletii* 亚种。
+本工具仅针对 DCC1-DCC7，不包含 *bolletii* 亚种。
 
 ## How the marker sets were derived / 标记集的来源
 
